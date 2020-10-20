@@ -1,2 +1,2 @@
-# House-Price-Prediction
-Downloaded the dataset and done some data mining processes,data cleaning,data visualization,outlier analysis and applied some machine learning to build a model that predicts the house price based on our requirements
+# ML to real world Data
+You'll have various real world datasets and some respective Ml algorthms applied accordingly after done all data mining,preprcessing and visualization techniques
